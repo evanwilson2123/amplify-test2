@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactgolang-dev-bc389-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382788263:role/amplify-amplifyreactgolang-dev-bc389-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382788263:role/amplify-amplifyreactgolang-dev-bc389-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyreactgolang-dev-bc389-deployment",
+      "UnauthRoleName": "amplify-amplifyreactgolang-dev-bc389-unauthRole",
+      "StackName": "amplify-amplifyreactgolang-dev-bc389",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382788263:stack/amplify-amplifyreactgolang-dev-bc389/e10bd900-dd10-11ef-85dd-0afff54d5643",
+      "AmplifyAppId": "d2lritto08agnk"
+    },
+    "categories": {
+      "function": {
+        "testFunc": {
+          "deploymentBucketName": "amplify-amplifyreactgolang-dev-bc389-deployment",
+          "s3Key": "amplify-builds/testFunc-34472f52775464332f35-build.zip"
+        }
+      }
+    }
+  }
+}
