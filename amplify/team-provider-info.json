@@ -15,8 +15,11 @@
       "function": {
         "testFunc": {
           "deploymentBucketName": "amplify-amplifyreactgolang-dev-bc389-deployment",
-          "s3Key": "amplify-builds/testFunc-34472f52775464332f35-build.zip"
+          "s3Key": "amplify-builds/testFunc-2b53384a536747785431-build.zip"
         }
+      },
+      "auth": {
+        "amplifyreactgolang05bd44cd": {}
       }
     }
   }
